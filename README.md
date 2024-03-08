@@ -7,14 +7,20 @@ I'm a [Your Profession/Interest] passionate about [Specific Interest or Field]. 
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
 
+</br>
 
-## Projects
-Here are some projects I've been working on:
-1. [Project Name](Link to project): Brief description.
-2. [Project Name](Link to project): Brief description.
-3. [Project Name](Link to project): Brief description.
+### Tools
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+
+</br>
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/juliusalfredo/)
