@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Julius Alfredo]! 👋
 
 ## About Me
 I'm a [Your Profession/Interest] passionate about [Specific Interest or Field]. I love to [What you love to do]. Currently, I'm [What you're doing currently].
@@ -15,9 +15,8 @@ Here are some projects I've been working on:
 3. [Project Name](Link to project): Brief description.
 
 ## Connect with Me
-- [LinkedIn](Your LinkedIn profile URL)
-- [Twitter](Your Twitter profile URL)
-- [Portfolio](Link to your portfolio or personal website)
+- [LinkedIn](https://www.linkedin.com/in/juliusalfredo/)
+- [Instagram](https://www.instagram.com/alfred_oj/)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IArnFredo&show_icons=true&theme=radical)
@@ -25,10 +24,7 @@ Here are some projects I've been working on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IArnFredo&layout=compact)
 
 ## Contribution Graph
-![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
+![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=IArnFredo&theme=github)
 
-## Support Me
-If you find my work helpful, you can support me by buying me a coffee:
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--brightgreen?style=for-the-badge&logo=buy-me-a-coffee)](Link to your Buy Me a Coffee account)
 
 Feel free to reach out and connect! 😊
