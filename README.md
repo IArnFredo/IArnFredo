@@ -3,10 +3,12 @@
 ## About Me
 I'm a [Your Profession/Interest] passionate about [Specific Interest or Field]. I love to [What you love to do]. Currently, I'm [What you're doing currently].
 
-## Skills
-- **Programming Languages:** [List of programming languages]
-- **Technologies:** [List of technologies/tools]
-- **Interests:** [Your interests]
+### Languages
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
 
 ## Projects
 Here are some projects I've been working on:
