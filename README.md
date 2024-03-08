@@ -14,20 +14,15 @@ Here are some projects I've been working on:
 2. [Project Name](Link to project): Brief description.
 3. [Project Name](Link to project): Brief description.
 
-## Latest Blog Posts
-- [Blog Post Title](Link to blog post)
-- [Blog Post Title](Link to blog post)
-- [Blog Post Title](Link to blog post)
-
 ## Connect with Me
 - [LinkedIn](Your LinkedIn profile URL)
 - [Twitter](Your Twitter profile URL)
 - [Portfolio](Link to your portfolio or personal website)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IArnFredo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IArnFredo&layout=compact)
 
 ## Contribution Graph
 ![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
